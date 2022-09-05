@@ -1,0 +1,20 @@
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.exe.config
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.exe
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.pdb
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.AssemblyReference.cache
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket_For_Windows.Form1.resources
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket_For_Windows.Properties.Resources.resources
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.GenerateResource.cache
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.CoreCompileInputs.cache
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.exe
+C:\Users\averm\Downloads\Compressed\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.pdb
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.exe.config
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.exe
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Debug\DDoSPacket-For-Windows.pdb
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.AssemblyReference.cache
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket_For_Windows.Form1.resources
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket_For_Windows.Properties.Resources.resources
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.GenerateResource.cache
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.csproj.CoreCompileInputs.cache
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.exe
+E:\K I T T U\RKU\.Net\Projects\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Debug\DDoSPacket-For-Windows.pdb
